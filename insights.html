@@ -1,0 +1,21 @@
+<!-- templates/insights.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Expense Insights</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h2 class="my-4">Spending Insights</h2>
+        <p>Based on your past expenses, here is a prediction for future spending:</p>
+        
+        <div class="alert alert-info">
+            <strong>Predicted Expense:</strong> ₹{{ prediction[0] }}
+        </div>
+        
+        <a href="/" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+</body>
+</html>

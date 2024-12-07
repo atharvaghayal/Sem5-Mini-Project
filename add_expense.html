@@ -1,0 +1,33 @@
+<!-- templates/add_expense.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Expense</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Add New Expense</h2>
+        <form action="/add" method="post">
+            <div class="form-group">
+                <label for="date">Date</label>
+                <input type="date" class="form-control" name="date" required>
+            </div>
+            <div class="form-group">
+                <label for="category">Category</label>
+                <input type="text" class="form-control" name="category" required>
+            </div>
+            <div class="form-group">
+                <label for="description">Description</label>
+                <input type="text" class="form-control" name="description">
+            </div>
+            <div class="form-group">
+                <label for="amount">Amount</label>
+                <input type="number" class="form-control" name="amount" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Expense</button>
+        </form>
+    </div>
+</body>
+</html>

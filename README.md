@@ -1,11 +1,11 @@
 # Sem5-Mini-Project
-A personal finance tracker to manage daily expenses. Under development.
-# Expense Tracker
+A personal finance tracker to manage daily expenses.
+# Expense Tracker.
 
 ### 🚧 Work in Progress  
 This project is under development.  
 
-### 💡 About  
+### 💡 About
 A personal finance tracker to manage daily expenses effectively.  
 
 ### 🛠️ Features (Current & Planned)  
@@ -14,9 +14,9 @@ A personal finance tracker to manage daily expenses effectively.
 - ⏳ Generate monthly reports (Coming Soon)  
 
 ### 📦 Tech Stack  
-- Frontend: HTML, CSS, JavaScript  
+- Frontend: HTML, CSS. 
 - Backend: Python (Flask/Django)  
-- Database: SQLite/MySQL  
+- Database: SQLite/MySQL(in work)  
 
 ### 🚀 Setup Instructions  
 1. Clone the repository: `git clone https://github.com/yourusername/expense-tracker.git`  

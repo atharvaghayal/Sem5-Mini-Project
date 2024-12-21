@@ -24,4 +24,8 @@ A personal finance tracker to manage daily expenses effectively.
 3. Run the app: `python app.py`  
 
 ### 📸 Screenshots.
-**UNDER DEVELOPMENT**
+![Expense Tracker SS1](https://github.com/user-attachments/assets/ca3ce978-d093-46b1-a321-5b7f070142a8)
+![Expense Tracker SS2](https://github.com/user-attachments/assets/300e4770-00e3-4751-9ce1-dea5c66d94d5)
+
+### Graphs analysis.
+**UNDER DEVELPOMENT**

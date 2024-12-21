@@ -1,9 +1,6 @@
 # Sem5-Mini-Project
 A personal finance tracker to manage daily expenses.
-# Expense Tracker.
-
-### 🚧 Work in Progress  
-This project is under development.  
+# Expense Tracker. 
 
 ### 💡 About
 A personal finance tracker to manage daily expenses effectively.  

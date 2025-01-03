@@ -35,7 +35,7 @@ def add_expense():
         conn = connect_db()
         cur = conn.cursor()
         cur.execute("INSERT INTO expenses (date, category, description, amount) VALUES (?, ?, ?, ?)",
-                    (date, category, description, amount))
+                    (Date, Category, Description, Amount))
         conn.commit()
         conn.close()
         return redirect(url_for('index'))
